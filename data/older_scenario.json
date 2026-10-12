@@ -1,0 +1,21 @@
+{
+  "scenario": "EARLIER analysis - 25-Aug-2026, NOT the current/selected model",
+  "context": "Older supplied Reliance_Project4_Completed_OneSheet.xlsx; different revenue, capex, discount rate and terminal growth assumptions. Keep independent and do not combine figures with later scenario.",
+  "market_reference_date": "2026-08-25",
+  "units": "INR crore / shares in crore",
+  "fcff_forecast": [
+    31992.493283624994,
+    42509.50712757,
+    54252.15562198689,
+    67203.0524575645,
+    81319.45779557728
+  ],
+  "wacc": 0.11278169616934623,
+  "terminal_growth_rate": 0.045,
+  "gross_debt": 374421.0,
+  "cash_equivalents": 145977.0,
+  "diluted_shares_crore": 1353.2,
+  "workbook_reference_per_share": 517.4838083315832,
+  "workbook_reference_ev": 928703.0894342985,
+  "source_note": "Reconstructed prior-scenario FCFFs from older standalone workbook. No claim of same valuation method assumptions across two versions."
+}

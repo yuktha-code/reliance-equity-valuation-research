@@ -1,0 +1,47 @@
+{
+  "project": "Reliance Industries five-year FCFF discounted-cash-flow research",
+  "version": "FSF Project 4 later workbook / 28-Aug-2026 reference",
+  "market_reference_date": "2026-08-28",
+  "units": "INR crore except per-share prices, shares in crore, and rates",
+  "fy26_revenue": 1175919.0,
+  "forecast_years": [
+    "FY27",
+    "FY28",
+    "FY29",
+    "FY30",
+    "FY31"
+  ],
+  "revenue_growth": [
+    0.09,
+    0.085,
+    0.08,
+    0.075,
+    0.07
+  ],
+  "ebitda_margin": 0.185,
+  "da_revenue_ratio": 0.04571799538191832,
+  "effective_tax_rate": 0.224,
+  "capex_revenue_ratio": 0.055,
+  "nwc_investment_revenue_ratio": 0.005,
+  "risk_free_rate": 0.06913,
+  "beta": 0.93,
+  "equity_risk_premium": 0.06,
+  "pretax_cost_of_debt": 0.07496630657759322,
+  "equity_weight": 0.8230573911218921,
+  "debt_weight": 0.17694260887810784,
+  "terminal_growth_rate": 0.035,
+  "gross_debt": 374421.0,
+  "cash_equivalents": 145977.0,
+  "diluted_shares_crore": 1353.246,
+  "market_price_reference": 1287.0,
+  "workbook_reference": {
+    "wacc": 0.11311799335116322,
+    "pv_forecast_fcff": 508928.1782992564,
+    "terminal_value": 2147067.0040808893,
+    "pv_terminal_value": 1256433.716735135,
+    "enterprise_value": 1765361.8950343914,
+    "equity_value": 1536917.8950343914,
+    "per_share": 1135.7269077716774
+  },
+  "source_note": "Values transcribed from the supplied FSF_Reliance_Yuktha_Project5_completed(1).xlsx PROJECT4 dated 28 Aug 2026. Published public code excludes proprietary cohort workbook layout. All fiscal and market figures are historical researcher inputs, not independently refreshed or trade quotes."
+}

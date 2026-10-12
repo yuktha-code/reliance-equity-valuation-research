@@ -1,0 +1,176 @@
+{
+  "scenario": "Later Project4 base case",
+  "results": {
+    "wacc": 0.11311799335116322,
+    "cost_equity": 0.12493,
+    "after_tax_cost_of_debt": 0.05817385390421234,
+    "terminal_growth": 0.035,
+    "forecast": [
+      {
+        "year": "FY27",
+        "revenue": 1281751.7100000002,
+        "ebitda": 237124.06635000004,
+        "da": 58599.11875854592,
+        "ebit": 178524.9475914541,
+        "nopat": 138535.3593309684,
+        "capex": 70496.34405000001,
+        "nwc_investment": 6408.758550000001,
+        "fcff": 120229.37548951432,
+        "discount_factor": 0.8983773561950884,
+        "pv_fcff": 108011.34848925644
+      },
+      {
+        "year": "FY28",
+        "revenue": 1390700.60535,
+        "ebitda": 257279.61198975,
+        "da": 63580.04385302232,
+        "ebit": 193699.56813672767,
+        "nopat": 150310.8648741007,
+        "capex": 76488.53329425001,
+        "nwc_investment": 6953.503026750001,
+        "fcff": 130448.87240612297,
+        "discount_factor": 0.8070818741240767,
+        "pv_fcff": 105282.92041890629
+      },
+      {
+        "year": "FY29",
+        "revenue": 1501956.6537780003,
+        "ebitda": 277861.98094893,
+        "da": 68666.44736126412,
+        "ebit": 209195.5335876659,
+        "nopat": 162335.73406402874,
+        "capex": 82607.61595779001,
+        "nwc_investment": 7509.783268890002,
+        "fcff": 140884.78219861287,
+        "discount_factor": 0.7250640803085652,
+        "pv_fcff": 102150.49503430976
+      },
+      {
+        "year": "FY30",
+        "revenue": 1614603.4028113503,
+        "ebitda": 298701.6295200998,
+        "da": 73816.43091335891,
+        "ebit": 224885.19860674086,
+        "nopat": 174510.9141188309,
+        "capex": 88803.18715462426,
+        "nwc_investment": 8073.017014056752,
+        "fcff": 151451.14086350877,
+        "discount_factor": 0.651381151539632,
+        "pv_fcff": 98652.41853766337
+      },
+      {
+        "year": "FY31",
+        "revenue": 1727625.641008145,
+        "ebitda": 319610.7435865068,
+        "da": 78983.58107729405,
+        "ebit": 240627.16250921277,
+        "nopat": 186726.6781071491,
+        "capex": 95019.41025544798,
+        "nwc_investment": 8638.128205040724,
+        "fcff": 162052.72072395447,
+        "discount_factor": 0.5851860767954868,
+        "pv_fcff": 94830.9958744856
+      }
+    ],
+    "pv_explicit": 508928.1783546214,
+    "terminal_value": 2147067.0040808893,
+    "pv_terminal": 1256433.716735135,
+    "terminal_value_pv_share": 0.711714532997357,
+    "enterprise_value": 1765361.8950897565,
+    "equity_value": 1536917.8950897565,
+    "fair_value_per_share": 1135.72690781259,
+    "market_reference_price": 1287.0,
+    "implied_upside_downside": -0.11753931016892771
+  },
+  "sensitivity": [
+    {
+      "wacc": 0.1,
+      "terminal_growth": 0.025,
+      "fair_value_per_share": 1236.8376407223561
+    },
+    {
+      "wacc": 0.1,
+      "terminal_growth": 0.03,
+      "fair_value_per_share": 1314.7344259920171
+    },
+    {
+      "wacc": 0.1,
+      "terminal_growth": 0.035,
+      "fair_value_per_share": 1404.615332072395
+    },
+    {
+      "wacc": 0.105,
+      "terminal_growth": 0.025,
+      "fair_value_per_share": 1146.7823042489094
+    },
+    {
+      "wacc": 0.105,
+      "terminal_growth": 0.03,
+      "fair_value_per_share": 1213.7166798890214
+    },
+    {
+      "wacc": 0.105,
+      "terminal_growth": 0.035,
+      "fair_value_per_share": 1290.2131091920062
+    },
+    {
+      "wacc": 0.11,
+      "terminal_growth": 0.025,
+      "fair_value_per_share": 1067.3577403920788
+    },
+    {
+      "wacc": 0.11,
+      "terminal_growth": 0.03,
+      "fair_value_per_share": 1125.3605126508128
+    },
+    {
+      "wacc": 0.11,
+      "terminal_growth": 0.035,
+      "fair_value_per_share": 1191.0969878773778
+    },
+    {
+      "wacc": 0.115,
+      "terminal_growth": 0.025,
+      "fair_value_per_share": 996.7913722225513
+    },
+    {
+      "wacc": 0.115,
+      "terminal_growth": 0.03,
+      "fair_value_per_share": 1047.430786580661
+    },
+    {
+      "wacc": 0.115,
+      "terminal_growth": 0.035,
+      "fair_value_per_share": 1104.4001277335349
+    },
+    {
+      "wacc": 0.12,
+      "terminal_growth": 0.025,
+      "fair_value_per_share": 933.6838176583927
+    },
+    {
+      "wacc": 0.12,
+      "terminal_growth": 0.03,
+      "fair_value_per_share": 978.1890808555099
+    },
+    {
+      "wacc": 0.12,
+      "terminal_growth": 0.035,
+      "fair_value_per_share": 1027.9302573699345
+    }
+  ],
+  "project5_reconciliation": {
+    "workbook_stated_target": 1453.0,
+    "target_from_declared_85_10_5_weights": 1420.5245908958577,
+    "difference_stated_minus_recomputed": 32.47540910414227,
+    "source_note": "The PROJECT5 stated target and declared weights disagree; not an endorsed target."
+  },
+  "older_scenario": {
+    "pv_explicit": 193938.08232609276,
+    "terminal_value": 1253713.5863945715,
+    "pv_terminal": 734765.0071082059,
+    "enterprise_value": 928703.0894342987,
+    "equity_value": 700259.0894342987,
+    "fair_value_per_share": 517.4838083315834
+  }
+}
