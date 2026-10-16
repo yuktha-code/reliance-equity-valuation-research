@@ -36,7 +36,3 @@ No external data download or Python dependencies are required for the DCF itself
 ## Source files and intellectual-property precautions
 
 The original First Step Finance project workbooks were used for a private audit. **They are not uploaded to this public repository**: only transcribed numerical assumptions and original public-safe calculation code are included. This project does not claim complete company/peer financial statement verification, real Azure/Bloomberg/API connectivity, live share prices, executed trades, or profitable investment decisions.
-
-## For interviews
-
-Explain the bridge from market capitalization to EV vs the DCF EV-to-equity bridge, WACC and its tax shield, why normalized capex changes FCFF, discounting convention and terminal-value share, forecasting assumptions, and why simple P/E/EV-EBITDA comparables are weak when business mixes diverge.
